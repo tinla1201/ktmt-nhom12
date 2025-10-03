@@ -10,3 +10,8 @@ MSSV: 25119163
 Ngày Sinh : 12/01/2007
 Sở thích; Đá banh
 
+Họ Tên : Nguyễn Trần Anh Khoa
+MSSV: 25119104
+Ngày Sinh: 10/07/2007
+Sở Thích: nghe nhạc , gym
+
