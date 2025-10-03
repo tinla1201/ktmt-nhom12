@@ -1,7 +1,7 @@
 # 📑 REPORT - Thực hành Tuần 4
 
 ## 🔗 Link Repo
-- [Repo nhóm]([https://github.com/ten-nhom/ten-repo](https://github.com/tinla1201/ktmt-nhom12.git))  
+- [REPO NHÓM](https://github.com/tinla1201/ktmt-nhom12.git)  
 
 ## 🔀 Link Pull Requests đã merge
 1. [PR #1: Thêm Tên và Ngày Sinh ](https://github.com/tinla1201/ktmt-nhom12/pull/1)
