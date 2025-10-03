@@ -5,8 +5,8 @@
 
 ## 🔀 Link Pull Requests đã merge
 1. [PR #1: Thêm Tên và Ngày Sinh ](https://github.com/tinla1201/ktmt-nhom12/pull/1)
-2. [PR #2: Thêm Sở Thích và MSSV](https://github.com/tinla1201/ktmt-nhom12/pull/2)
-3. [PR #3: Chỉnh sửa lại thông tin](https://github.com/tinla1201/ktmt-nhom12/pull/3)
+2. [PR #2: THÊM THÔNG TIN NGÀY SINH & MSSV](https://github.com/tinla1201/ktmt-nhom12/pull/2)
+3. [PR #3:THÊM NGÀY SINH MSSV TÊN SỞ THÍCH](https://github.com/tinla1201/ktmt-nhom12/pull/3)
 4. [PR #4: Cập nhật thông tin](https://github.com/tinla1201/ktmt-nhom12/pull/4)
 
 ## 👥 Thành viên & Nhiệm vụ
