@@ -9,6 +9,12 @@
 3. [PR #3:THÊM NGÀY SINH MSSV TÊN SỞ THÍCH](https://github.com/tinla1201/ktmt-nhom12/pull/3)
 4. [PR #4: Cập nhật thông tin](https://github.com/tinla1201/ktmt-nhom12/pull/4)
 
+## 🔀 Link cá nhân của từng thành viên
+1. [Nguyễn Trần Anh Khoa - MSSV: 25119104](https://github.com/khoaak472k7/ktmt-nhapmon1)
+2. [Hoàng Dương Tuấn Kiệt - MSSV: 25119107](https://github.com/TK3107/ktmt-nhapmon)
+3. [La Hữu Tín - MSSV: 25119163]()
+4. [Lê Minh Tuyền - MSSV: 25119176]()
+
 1. Thành viên & Nhiệm vụ
 - La Hữu Tín: Tạo repo, viết README, quản lý branch.  
 - Hoàng Dương Tuấn Kiệt : Cập nhật thông tin cá nhân, xử lý conflict.  
