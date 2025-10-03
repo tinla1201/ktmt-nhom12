@@ -1,16 +1,16 @@
 # 📑 REPORT - Thực hành Tuần 4
 
 ## 🔗 Link Repo
-- [Repo nhóm](https://github.com/ten-nhom/ten-repo)  
+- [Repo nhóm]([https://github.com/ten-nhom/ten-repo](https://github.com/tinla1201/ktmt-nhom12.git))  
 
 ## 🔀 Link Pull Requests đã merge
-1. [PR #1: Thêm README](https://github.com/ten-nhom/ten-repo/pull/1)
-2. [PR #2: Cài đặt chức năng X](https://github.com/ten-nhom/ten-repo/pull/2)
-3. [PR #3: Viết báo cáo](https://github.com/ten-nhom/ten-repo/pull/3)
+1. [PR #1: Thêm Tên và Ngày Sinh ](https://github.com/tinla1201/ktmt-nhom12/pull/1)
+2. [PR #2: Thêm Sở Thích và MSSV](https://github.com/tinla1201/ktmt-nhom12/pull/2)
+3. [PR #3: Chỉnh sửa lại thông tin](https://github.com/tinla1201/ktmt-nhom12/pull/3)
 
 ## 👥 Thành viên & Nhiệm vụ
-- **Nguyễn Văn A**: Tạo repo, viết README, quản lý branch.  
-- **Trần Thị B**: Viết code chức năng chính, xử lý conflict.  
+- La Hữu Tín: Tạo repo, viết README, quản lý branch.  
+- Hoàng Dương Tuấn Kiệt : Viết code chức năng chính, xử lý conflict.  
 - **Lê Văn C**: Viết tài liệu, tạo report, kiểm tra PR.  
 
 ## 💻 Lệnh Git được dùng nhiều nhất
