@@ -13,9 +13,9 @@
 ## 🔀 Link cá nhân của từng thành viên
 1. [Nguyễn Trần Anh Khoa - MSSV: 25119104](https://github.com/khoaak472k7/ktmt-nhapmon1)
 2. [Hoàng Dương Tuấn Kiệt - MSSV: 25119107](https://github.com/TK3107/ktmt-nhapmon)
-3. [La Hữu Tín - MSSV: 25119163](https://github.com/tinla1201/ktmt-nhapmon.git)
-4. [Lê Minh Tuyền - MSSV: 25119176]()
-
+3. [La Hữu Tín - MSSV: 25119163](https://github.com/tinla1201/ktmt-nhapmon)
+4. [Lê Minh Tuyền - MSSV: 25119176](https://github.com/imlook011/ktmt-nhapmon)
+5. [Lê Thanh Vàng - MSSV: 25119180](https://github.com/vang-143/ktmt-nhapmon)
 1. Thành viên & Nhiệm vụ
 - La Hữu Tín: Tạo repo, viết README, quản lý branch.  
 - Hoàng Dương Tuấn Kiệt : Cập nhật thông tin cá nhân, xử lý conflict.  
