@@ -8,18 +8,20 @@
 2. [PR #2: THÊM THÔNG TIN NGÀY SINH & MSSV](https://github.com/tinla1201/ktmt-nhom12/pull/2)
 3. [PR #3:THÊM NGÀY SINH MSSV TÊN SỞ THÍCH](https://github.com/tinla1201/ktmt-nhom12/pull/3)
 4. [PR #4: Cập nhật thông tin](https://github.com/tinla1201/ktmt-nhom12/pull/4)
+5. [PR#5: Chỉnh sửa thông tin](https://github.com/tinla1201/ktmt-nhom12/pull/5)
 
 ## 🔀 Link cá nhân của từng thành viên
 1. [Nguyễn Trần Anh Khoa - MSSV: 25119104](https://github.com/khoaak472k7/ktmt-nhapmon1)
 2. [Hoàng Dương Tuấn Kiệt - MSSV: 25119107](https://github.com/TK3107/ktmt-nhapmon)
-3. [La Hữu Tín - MSSV: 25119163]()
+3. [La Hữu Tín - MSSV: 25119163](https://github.com/tinla1201/ktmt-nhapmon.git)
 4. [Lê Minh Tuyền - MSSV: 25119176]()
 
 1. Thành viên & Nhiệm vụ
 - La Hữu Tín: Tạo repo, viết README, quản lý branch.  
 - Hoàng Dương Tuấn Kiệt : Cập nhật thông tin cá nhân, xử lý conflict.  
-- Nguyễn Trần Anh Khoa: Viết báo cáo, thêm thông tin cá nhân.
+- Nguyễn Trần Anh Khoa: check code của các thành viên , thêm thông tin cá nhân.
 - Lê Minh Tuyền : Cập nhật thông tin cá nhân, kiểm tra lại code
+- Lê Thanh Vàng: Cập nhật thông tin cá nhân, viết báo cáo
 
 2. Lệnh Git được dùng nhiều nhất
 - `git clone`  
