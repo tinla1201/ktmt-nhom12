@@ -15,3 +15,8 @@ MSSV: 25119104
 Ngày Sinh: 10/07/2007
 Sở Thích: nghe nhạc , gym
 
+Họ Tên : Lê Minh Tuyền
+MSSV: 25119176
+Ngày Sinh: 13/11/2007
+Sở Thích: nhảy, nghe nhạc
+
