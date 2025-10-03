@@ -23,5 +23,5 @@ Sở Thích: nhảy, nghe nhạc
 Họ Tên : Lê Thanh Vàng
 MSSV: 25119180
 Ngày Sinh: 14/03/2007
-Sở Thích: Thích mọi thứ
+Sở Thích: Thích mọi thứ trên đời
 
